@@ -6,20 +6,12 @@
 
 ## 界面
 
-<!--
-截图就位后，把下面四行的注释打开并确认文件名：
-文件名放 docs/ 目录：1-orbit.png、2-annotate.png、3-record.png、4-ocr.png
-
 | | |
 |---|---|
-| ![环形菜单](docs/1-orbit.png) | ![标注](docs/2-annotate.png) |
+| <img src="docs/1-orbit.jpg" width="420"> | <img src="docs/2-annotate.jpg" width="420"> |
 | 点宠物展开环形菜单 | 截图原地标注，浮层可搬走 |
-| ![录屏](docs/3-record.png) | ![OCR](docs/4-ocr.png) |
-| 框选后可调整，确认后 3-2-1 | 文字识别结果可直接编辑 |
-
--->
-
-截图待补：环形菜单、标注界面、录屏倒计时、文字识别面板。
+| <img src="docs/3-record.jpg" width="420"> | <img src="docs/4-ocr.jpg" width="420"> |
+| 框选后可调整，确认后 3-2-1 倒计时 | 文字识别结果可直接编辑、复制 |
 
 ## 它做什么
 
