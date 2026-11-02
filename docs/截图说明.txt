@@ -1,0 +1,8 @@
+把界面截图放这里：
+
+1-orbit.png    环形菜单展开
+2-annotate.png 标注界面
+3-record.png   录屏倒计时 / 选区
+4-ocr.png      文字识别结果面板
+
+放好之后告诉我，我把 README 里的图片引用打开。
