@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>Yaya</string>
+	<key>CFBundleIdentifier</key>
+	<string>cn.lingxiu.yaya</string>
+	<key>CFBundleName</key>
+	<string>Yaya</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Yaya 需要屏幕录制权限来捕获截图与录制屏幕内容。</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Yaya 录屏时需要麦克风权限来同时录制你的声音。</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+# 构建产物
+.build/
+*.app/
+DerivedData/
+
+# 系统垃圾
+.DS_Store
+._*
+
+# 早期概念稿 / 未接入代码的网页试验
+web/
+web3d/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
