@@ -4,6 +4,8 @@
 
 > 界面语言为中文。最低要求 **macOS 15 (Sequoia)**。
 
+[**下载最新版**](https://github.com/xling6190-beep/Yaya/releases/latest) · [从源码构建](#自己构建)
+
 ## 界面
 
 | | |
